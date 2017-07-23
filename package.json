@@ -1,0 +1,25 @@
+{
+  "name": "spacers",
+  "version": "1.0.0",
+  "description": "Lightweight CSS spacing classes inspired by bootstrap generated with precss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/spacers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/spacers/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/spacers#readme",
+  "dependencies": {
+    "autoprefixer": "^7.1.2",
+    "postcss": "^6.0.8",
+    "precss": "^2.0.0"
+  }
+}
