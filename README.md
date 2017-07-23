@@ -1,7 +1,35 @@
 # spacers
 Lightweight CSS spacing classes inspired by bootstrap generated with precss.
 
-What you get
+## Installation
+
+```Bash
+npm install spacing
+```
+
+## Usage
+
+### CSS
+```css
+@import "node_modules/spacers/dist/spacers.css";
+```
+
+### HTML
+
+```HTML
+<link href="node_modules/spacers/dist/spacers.css" rel="stylesheet">
+```
+
+### postcss' precss
+
+note that you are including from src
+
+```css
+@import "node_modules/spacers/src/spacers.css";
+```
+
+
+## Class Reference
 
 ```CSS
 
