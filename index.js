@@ -9,7 +9,7 @@ module.exports = {
 
   writeFile: function(target){
     const data = fs.readFileSync(path.join(__dirname, 'dist', `spacers.css`));
-    fs.writeFile(`dist/${name}.html`, data);
+    fs.writeFile(target, data);
   }
 
 }
