@@ -9,6 +9,16 @@ npm install spacing
 
 ## Usage
 
+### CSS via CDN
+```css
+@import "https://unpkg.com/spacers/dist/spacers.css";
+```
+### HTML via CDN
+
+```HTML
+<link href="https://unpkg.com/spacers/dist/spacers.css" rel="stylesheet">
+```
+
 ### CSS
 ```css
 @import "node_modules/spacers/dist/spacers.css";
