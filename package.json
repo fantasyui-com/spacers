@@ -1,6 +1,6 @@
 {
   "name": "spacers",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Lightweight CSS spacing classes inspired by bootstrap generated with precss.",
   "main": "index.js",
   "scripts": {
