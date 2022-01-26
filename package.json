@@ -20,7 +20,7 @@
   "homepage": "https://github.com/fantasyui-com/spacers#readme",
   "dependencies": {
     "autoprefixer": "^10.4.2",
-    "postcss": "^6.0.8",
+    "postcss": "^8.2.13",
     "precss": "^2.0.0"
   }
 }
